@@ -1,4 +1,6 @@
 const zrapi = require("./src/index");
-zrapi.instagram("https://www.instagram.com/p/CNREL7xnGHO/?igshid=1g80ve64qkwyf")
+
+// zrapi.pastegg("Z", )
+zrapi.snaptik("https://vt.tiktok.com/khpq9t")
 .then(data => console.log(data))
 .catch(e => console.log(e))

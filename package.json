@@ -1,13 +1,13 @@
 {
   "name": "zrapi",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "api module",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zefianalfian",
-  "license": "ISC",
+  "author": "Rizqi a.k.a ZefianAlfian",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.5",
