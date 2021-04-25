@@ -1,4 +1,4 @@
-# ZRAPi
+# ZRAPi (deprecated)
 
 `Z-RAPi` is made to help. Hopefully this module is useful for developer friends, you can request next scraping or features.
 
